@@ -1,10 +1,10 @@
 @charset "utf-8";
 /* CSS Document */
 .top{
-	width: 1910px;
+	width: 100%;
 	height: auto;
 	margin-top: -9px;
-	margin-left: -15px
+	
 }
 .menu{
 	width: 100%;
@@ -23,7 +23,7 @@
 	
 }
 .logomenu2{
-	width: 1050px;
+	width: 50%;
 	height: 80px;
 	background-color: #24262a;
 	float:left;
@@ -91,7 +91,7 @@
 
 
 .logomenu3{
-	width: 480px;
+	width: 29%;
 	height: 80px;
 	background-color: #24262a;
 	float: left;
@@ -106,7 +106,7 @@
 	height: 60px;
 	background-color:rgba(36,153,255,1.00);
 	float: right;
-	margin: 2%;
+	margin: 1.7%;
 	text-align: center;
 	color:black;
 	font-family: r6;
