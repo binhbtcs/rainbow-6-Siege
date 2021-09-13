@@ -342,8 +342,8 @@
 	text-align: left;
 	box-sizing: border-box;
 	padding-left: 10px;
-	
-	font-size: 105%
+	letter-spacing: 0.5px;
+	font-size: 105%;
 	
 }
 .botton{
@@ -425,8 +425,8 @@
 	text-align: left;
 	box-sizing: border-box;
 	padding-left: 10px;
-	
-	font-size: 105%
+	letter-spacing: 0.3px;
+	font-size: 105%;
 	}
 .phai3{
 	width: 900px;
@@ -450,8 +450,8 @@
 	text-align: left;
 	box-sizing: border-box;
 	padding-left: 10px;
-	
-	font-size: 105%
+	letter-spacing: 0.3px;
+	font-size: 105%;
 	
 	}
 .allnew{
