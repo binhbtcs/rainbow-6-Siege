@@ -138,8 +138,8 @@
 	padding: 25px;
 	box-sizing: border-box;
 	background-size: cover;
-	color: black;
-	
+	color: #24262A;
+	letter-spacing: 0.1px;
 }
 .newbox{
 	width: 200px;
@@ -185,7 +185,7 @@
 	box-sizing: border-box;
 	font-size: 230%;
 	letter-spacing: 0.5px;
-	
+	color: #24262a;
 	
 }
 .newbox1{
@@ -285,7 +285,7 @@
 	font-family: r6;
 	box-sizing: border-box;
 	background-color: #ffffff99;
-	
+	letter-spacing: 0.12px
 	
 }
 .boxtrai{
