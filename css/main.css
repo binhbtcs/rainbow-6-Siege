@@ -13,12 +13,12 @@
 	float: left;
 }
 .logomenu{
-	width: 310px;
-	height: 55px;
-	margin-top: 9px;
+	width: 250px;
+	height: 44px;
+	margin-top: 17px;
 	margin-left: 40px;
 	background-image:url( "../images/r6s-y6-logo.webp");
-	background-size: contain;
+	background-size: cover;
 	float: left;
 	
 }
@@ -98,7 +98,7 @@
 	font-weight: 800;
 	font-family: r6;
 	font-size: 150%;
-	
+	margin-left: 80px;
 		
 }
 .in3{
@@ -154,8 +154,14 @@
 	letter-spacing: 0.5px;
 	
 }
-.newbox:hover{
+.newbox a{
+	text-decoration: none;
+	color:#24262a;
+	
+}
+.newbox:hover {
 	background-color: aqua;
+	
 }
 .new1{
 	width: 400px;
@@ -192,7 +198,11 @@
 	padding: 6px;
 	box-sizing: border-box;
 	font-size: 150%;
-	
+	font-weight: 500;
+}
+.newbox1 a{
+	text-decoration: none;
+	color: #24262a;
 }
 .newbox1:hover{
 	background-color: aqua;
@@ -206,6 +216,17 @@
 	
 	
 }
+.boxtrai a{
+	text-decoration: none;
+	color: #24262a;
+	font-weight: 500;
+}
+.readmore a{
+	text-decoration: none;
+	color: #24262a;
+	font-weight: 500;
+	
+}
 .trai{
 	width: 50%;
 	height: 1550px;
@@ -216,6 +237,12 @@
 	color: aliceblue;
  	font-family: r6;
 	
+	
+}
+.readmore2 a{
+	text-decoration: none;
+	color: #24262a;
+	font-weight: 500;
 	
 }
 .phai{
@@ -441,6 +468,26 @@
 	box-sizing: border-box;
 	opacity: 0.9;	
 		
+}
+.allnew a{
+	text-decoration: none;
+	color: #24262a;
+	font-weight: 600;
+}
+.discover a{
+	text-decoration: none;
+	color: #24262a;
+	font-weight: 500;
+}
+.qf5-1 a{
+	text-decoration: none;
+	color: #24262a;
+	font-weight: 500;
+}
+.qf5-2 a{
+	text-decoration: none;
+	color: #24262a;
+	font-weight: 500;
 }
 .endnew{
 	width: 1500px;
@@ -741,7 +788,7 @@
 	margin-left: 480px;
 	justify-content: center;
 	display: flex;
-	
+	text-decoration: none;
 }
 .osa2-1{
 	width: 100px;
@@ -756,6 +803,7 @@
 	padding-top: 4px;
 	box-sizing: border-box;
 	letter-spacing: 0.5px;
+	text-decoration: none;
 }
 .osa2-1:hover{
 	background-color:rgba(0,255,255,1.00);
@@ -918,7 +966,8 @@
 	margin-left: 50px;
 	color: #ffffff;
 	font-weight: 500;
-	font-size: 110%
+	font-size: 110%;
+	text-decoration: none;
 	
 }
 .t3{
@@ -975,7 +1024,7 @@
 	font-size: 70%;
 	box-sizing: border-box;
 	float: left;
-	
+	text-decoration: none;
 }
 .p3-1{
 	width: 188px;
@@ -983,7 +1032,7 @@
 	color: #ffffff;
 	font-family: roboto;
 	font-size: 180%;
-	
+	text-decoration: none;
 		
 	
 }
@@ -998,6 +1047,7 @@
 	box-sizing: border-box;
 	float: left;
 	
+	
 }
 .p4-1{
 	width: 188px;
@@ -1005,6 +1055,7 @@
 	color: #ffffff;
 	font-family: roboto;
 	font-size: 180%;
+	
 }
 .warning{
 	margin-left: 1300px;
@@ -1032,7 +1083,41 @@
 	font-size: 75%;
 	clear: both;
 }
-
+.osa2-1 a{
+	text-decoration: none;
+	color: #24262a;
+	
+}
+.p4 a{
+	text-decoration: none;
+	color:#ffffff;
+}
+.p4-1 a{
+	text-decoration: none;
+	color:#ffffff;
+}
+.p3-1 a{
+	text-decoration: none;
+	color:#ffffff;
+}
+.p3 a{
+	text-decoration: none;
+	color:#ffffff;
+}
+.p2 a{
+	text-decoration: none;
+	color:#ffffff;
+}
+.p2-1 a{
+	text-decoration: none;
+	color:#ffffff;
+}.t2 a{
+	text-decoration: none;
+	color:#ffffff;
+}.t3 a{
+	text-decoration: none;
+	color:#ffffff;
+}
 @font-face{
 	font-family: roboto;
 	src: url( "../font/Roboto-Bold.ttf");
