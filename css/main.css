@@ -130,6 +130,7 @@ body{
 	background-size: cover;
 	float: left;
 	margin-top: 80px;
+	box-sizing: border-box;
 }
 .new{
 	width: 380px;
